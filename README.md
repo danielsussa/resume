@@ -1,6 +1,6 @@
 # Daniel Kanczuk
 
-Hi there! I'm a fullstack software developer and I love learning and teaching. My goal is to improve my knowledge on a daily basis either about new technologies as well as how and when to use it.
+~~Hi there!~~ I'm a fullstack software developer and I love learning and teaching. My goal is to improve my knowledge on a daily basis either about new technologies as well as how and when to use it.
 
 ## Personal work and codes
 
