@@ -1,12 +1,17 @@
 # Daniel Kanczuk
+Full stack developer programmer
 
-I'm a fullstack software developer and I love learning and teaching. My goal is to improve my knowledge on a daily basis either about new technologies as well as how and when to use it.
+## Profile
+
+* 6+ years of experience programmer using backend JAVA and angular framework.
+* 3+ years operating DevOps tools using kubernetes and operating more the 15 microservices on GKE cloud.
+* Solid understanding of good practices of programming and all formats of testing a application.
 
 ## Personal work and codes
 
-1. How about creating my own Web framework!? This is the proposal of [ Light Flame ](https://github.com/light-flame). It's a Java functional framework based on Netty, with a lot of features to deal with restful API, Websocket and Messaging.
+1. [ Light Flame ](https://github.com/light-flame) is a Java functional framework based on Netty, with a lot of features to deal with restful API, Websocket and Messaging.
 
-2. There is an article I wrote about [ microservices versus monolithic ](https://blog.geekhunter.com.br/arquitetura-de-microsservicos-x-arquitetura-monolitica/) which was posted on Geekhunter, a Brazilian specialized app to hire DEV.
+2. [ microservices versus monolithic ](https://blog.geekhunter.com.br/arquitetura-de-microsservicos-x-arquitetura-monolitica/) is a article that I wrote, which was posted on Geekhunter, a Brazilian specialized app to hire DEV.
 
 3. I love IOT too. Thus, there are a bunch of robots and stuff that I made when I started programming. It was really fun!
 
