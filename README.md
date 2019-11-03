@@ -1,5 +1,5 @@
 # Daniel Kanczuk
-Full stack developer programmer
+Full stack web developer
 
 ## Profile
 
