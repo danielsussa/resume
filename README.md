@@ -4,16 +4,16 @@ Full stack developer
 ## Profile
 
 * 6+ years of experience programmer using backend JAVA.
-* 6+ years of experience in frontend framework like Angular and VueJS, and pure JS/HTML/STYLE way
+* 6+ years of experience in frontend framework like Angular and VueJS, and pure JS/HTML/STYLE way.
+* 4+ years working with golang programming.
 * 3+ years operating DevOps tools using kubernetes and operating more then 15 microservices on GKE cloud.
-* 2+ years working with golang programming 
 * Solid understanding of good practices of programming and all formats of testing a application.
 
 ## Personal work and codes
 
 1. [ Light Flame ](https://github.com/light-flame) is a Java functional framework based on Netty, with a lot of features to deal with restful API, Websocket and Messaging. 
 
-2. [ microservices versus monolithic ](https://blog.geekhunter.com.br/arquitetura-de-microsservicos-x-arquitetura-monolitica/) is a article that I wrote, which was posted on Geekhunter, a Brazilian specialized app to hire DEV.
+2. [ microservices versus monolithic ](https://blog.geekhunter.com.br/arquitetura-de-microsservicos-x-arquitetura-monolitica/) is an article that I wrote, which was posted on Geekhunter, a Brazilian specialized app to hire developers.
 
 3. I love IOT too. Thus, there are a bunch of robots and stuff that I made when I started programming. It was really fun!
 
@@ -25,7 +25,7 @@ Full stack developer
 **Company:** Prevent Senior (Since may/2019)<br/>
 **Role**: FullStack developer<br/>
 * Member of the architecture team leader board, providing solutions for dealing with performance and better code on all teams. 
-* Implementation of **continuous deployment** on all projects and changing the work methodology throw **github flow**
+* Implementation of **continuous deployment** on all projects and changing the work methodology through **github flow**
 * Responsible for exchange the old EJB comunication to the scalable REST API and assync call using messages systems.
 
 
