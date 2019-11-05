@@ -3,6 +3,8 @@ Full stack developer
 
 ## Profile
 
+Experienced Web Developer adept in all stages of advanced web development. Knowledgeable in architecture design, testing, and better code practices. Bringing forth expertise in all end-to-end proccess of web systems. Proficient in an assortment of technologies, including Java, Golang,  Angular, VueJS, Docker, CI/CD techniques and scalability using Kubernetes. Able to effectively self-manage during independent projects, as well as collaborate in a team setting.
+
 * 6 years of experience using JAVA.
 * 6 years of experience in frontend framework like Angular and VueJS, and pure JS/HTML/STYLE way.
 * 4 years working with Golang programming.
