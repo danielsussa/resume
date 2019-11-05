@@ -3,10 +3,10 @@ Full stack developer
 
 ## Profile
 
-* 6+ years of experience programmer using backend JAVA.
-* 6+ years of experience in frontend framework like Angular and VueJS, and pure JS/HTML/STYLE way.
-* 4+ years working with golang programming.
-* 3+ years operating DevOps tools using kubernetes and operating more then 15 microservices on GKE cloud.
+* 6 years of experience using JAVA.
+* 6 years of experience in frontend framework like Angular and VueJS, and pure JS/HTML/STYLE way.
+* 4 years working with Golang programming.
+* 3 years operating DevOps tools using kubernetes and operating more then 15 microservices on GKE cloud.
 * Solid understanding of good practices of programming and all formats of testing a application.
 
 ## Personal work and codes
