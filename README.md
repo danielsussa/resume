@@ -1,10 +1,8 @@
-# Daniel Kanczuk
+# Daniel Kanczuk 
 
-FullStack Developer
+**Web developer** with large experience in all stages of advanced web development. Knowledgeable in architecture design, testing, and best coding practices. Bringing forth expertise in all end-to-end proccess of web systems. Proficient in an assortment of technologies, including Java, GoLang, Angular, VueJS, Docker, CI/CD techniques and scalability using Kubernetes. Able to effectively self-manage during independent projects, as well as collaborate in a team setting.
 
 ## Profile
-
-Web developer with large experience in all stages of advanced web development. Knowledgeable in architecture design, testing, and best coding practices. Bringing forth expertise in all end-to-end proccess of web systems. Proficient in an assortment of technologies, including Java, GoLang, Angular, VueJS, Docker, CI/CD techniques and scalability using Kubernetes. Able to effectively self-manage during independent projects, as well as collaborate in a team setting.
 
 * 6 years of experience using Java.
 * 6 years of experience in frontend frameworks like Angular and VueJS, and pure JS/HTML/STYLE way.
