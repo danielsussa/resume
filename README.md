@@ -50,7 +50,7 @@ It was my first contact with programming. I started to learn how to code, and I 
 
 ## Languages
 * Portuguese - native
-* English - Advanced
+* English - advanced
 
 ## Skills
 * **back-end:** Go, JAVA.
