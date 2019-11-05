@@ -18,18 +18,18 @@ Full stack developer
 3. I love IOT too. Thus, there are a bunch of robots and stuff that I made when I started programming. It was really fun!
 
 ## Certifications
-1. ORACLE CERTIFIED ASSOCIATE JAVA SE 8 Programmer I - 1Z0-808
+1. ORACLE CERTIFIED ASSOCIATE JAVA SE 8 Programmer I - 1Z0-808.
 
 ## Market experience
 
-**Company:** Prevent Senior (Since may/2019)<br/>
+**Company:** Prevent Senior (Since May/2019)<br/>
 **Role**: FullStack developer<br/>
 * Member of the architecture team leader board, providing solutions for dealing with performance and better code on all teams. 
 * Implementation of **continuous deployment** on all projects and changing the work methodology through **github flow**
-* Responsible for exchange the old EJB comunication to the scalable REST API and assync call using messages systems.
+* Responsible for exchange the old EJB comunication to the scalable REST API and async call using messages systems.
 
 
-**Company:** Acesso Digital (jun/2017 to may/2019)<br/>
+**Company:** Acesso Digital (Jun/2017 to May/2019)<br/>
 **Role**: FullStack/DepOps developer<br/>
 * Challenged to deal with another language, it was my first time looking at GoLang, a different, simplist and beautiful code language. 
 * Responsible for developing end to end a backoffice product for the companyof high criticity. A team of 50 analysts and AI is responsible to validate if a document is authentic, given some informations.
@@ -38,26 +38,26 @@ Full stack developer
 * Responsible to convert a big monolithic in some pieces of microservices, and then, implemented an **API GATEWAY** to deal with SSO and logging.
 
 
-**Company:** Original Bank (aug/2015 to jun/2017)<br/>
+**Company:** Original Bank (Aug/2015 to Jun/2017)<br/>
 **Role**: Backend developer<br/>
 This was my first expressive professional challenge in IT field. This was a big step to learn how big companies (in this case, a big bank) used to work. 
 * I was responsible to deal with big code reviews and ensure that the quality of code going to production was good.
 * I was in charge of the [Open API](https://developers.original.com.br/) and the OAUTH2 implementation, and to provide a meaningful mock application to help DEVs to code faster.
 
-**Freelancer**  (aug/2012 to aug/2015)<br/>
+**Freelancer**  (Aug/2012 to Aug/2015)<br/>
 **Role**: Web developer<br/>
-It was my first contact with programming. I started to learn how to code, and I developed some websites for small companies. I didn't know about any framework, so I developed most of my application using pure JAVA servlet application and no framework to deal with frontend (pure JS, CSS and HTML). It was really good to start that way to improve my understanding about how things work. As my last task there, I helped a friend develop an e-commerce and then I could improve my skills even more, and after that, when I was confident enough, I started looking for a job in a big company
+It was my first contact with programming. I started to learn how to code, and I developed some websites for small companies. I didn't know about any framework, so I developed most of my application using pure JAVA servlet application and no framework to deal with frontend (pure JS, CSS and HTML). It was really good to start that way to improve my understanding about how things work. As my last task there, I helped a friend develop an e-commerce and then I could improve my skills even more, and after that, when I was confident enough, I started looking for a job in a big company.
 
 ## Languages
-* Portuguese - Fluent
-* Englisg - Advanced
+* Portuguese - native
+* English - Advanced
 
 ## Skills
-* **back-end:** Go, JAVA
-* **front-end:** Angular, VueJS ,Javascript, Typescript, CSS3, LESS, HTML5, Thymeleaf
-* **Ops:** Kubernetes, Docker, Shell, TravisCI, Jenkins, Ansible
-* **Testing**: JUnit, Hexagonal architecture for testing, cypress for end-to-end
-* **DB:** MySQL, OracleDB e MongoDB, Postgres
+* **back-end:** Go, JAVA.
+* **front-end:** Angular, VueJS ,Javascript, Typescript, CSS3, LESS, HTML5, Thymeleaf.
+* **Ops:** Kubernetes, Docker, Shell, TravisCI, Jenkins, Ansible.
+* **Testing**: JUnit, Hexagonal architecture for testing, cypress for end-to-end.
+* **DB:** MySQL, OracleDB e MongoDB, Postgres.
 
 
 ## Some phrases that I learned and I'm used to say
