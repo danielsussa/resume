@@ -33,7 +33,8 @@ Full stack web developer
 **Role**: FullStack/DepOps developer<br/>
 * Challenged to deal with another language, it was my first time looking at GoLang, a different, simplist and beautiful code language. 
 * Responsible for developing end to end a backoffice product for the companyof high criticity. A team of 50 analysts and AI is responsible to validate if a document is authentic, given some informations.
-* Help teams to implement continuous delivery, kubernetes, MSQ and other architectural projects to build a full web application. It was a challenge because everybody in the team was learning how to deal/cope with all of these technologies. 
+* Help teams to implement continuous delivery, kubernetes, MSQ and other architectural projects to build a full web application. It was a challenge because everybody in the team was learning how to deal/cope with all of these technologies.
+* Tests automation and I bring some functional programming paradigmas like immutability and no side effects on functions to deal better with testing.
 * Responsible to convert a big monolithic in some pieces of microservices, and then, implemented an **API GATEWAY** to deal with SSO and logging.
 
 
@@ -52,6 +53,11 @@ It was my first contact with programming. I started to learn how to code, and I 
 * Englisg - Advanced
 
 ## Skills
+* **back-end:** Go, JAVA
+* **front-end:** Angular, VueJS ,Javascript, Typescript, CSS3, LESS, HTML5, Thymeleaf
+* **Ops:** Kubernetes, Docker, Shell, TravisCI, Jenkins, Ansible
+* **Testing**: JUnit, Hexagonal architecture for testing, cypress for end-to-end
+* **DB:** MySQL, OracleDB e MongoDB, Postgres
 
 
 ## Some phrases that I learned and I'm used to say
